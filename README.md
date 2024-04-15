@@ -1,1 +1,1 @@
-# cotton-yield-prediction
+# GUI-cotton-yield-prediction
